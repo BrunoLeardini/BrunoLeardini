@@ -1,7 +1,7 @@
 ### Olá, pessoal! Sou o Bruno Leardini👋
 
 [![BrunoLeardini's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLeardini&show_icons=true&theme=radical)](https://github.com/BrunoLeardini)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLeardini&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLeardini&layout=compact&theme=radical)](https://github.com/BrunoLeardini)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
