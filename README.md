@@ -1,6 +1,6 @@
 ### Olá, pessoal! Sou o Bruno Leardini👋
 
-![BrunoLeardini](https://github-readme-stats.vercel.app/api?username=BrunoLeardini&hide=contribs,prs)
+[![BrunoLeardini's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLeardini&show_icons=true&theme=radical)](https://github.com/BrunoLeardini)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLeardini&layout=compact)
 
 <div style="display: inline_block"><br>
