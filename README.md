@@ -1,12 +1,12 @@
 ### Olá, pessoal! Sou o Bruno Leardini👋
 
-👨‍💻 Estagiário em Projetos | 🐍 Aventurando em Automações em Python 
+👨‍💻 Estagiário em Gestão de Projetos | 🐍 Aventurando em Automações em Python 
 
 🌟 Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e um estagiário em projetos apaixonado por explorar o mundo da automação com Python. Estou empenhado em aprender e crescer no campo da programação, buscando sempre desafios e oportunidades para aprimorar minhas habilidades e otimizar minhas tarefas diariamente.
 
 🎓 Atualmente, estou cursando Engenharia da Computação na Descomplica. Meu interesse está em projetos de [automação utilizando diversas bibliotecas Python, análise de dados, etc.]. 
 
-📚 Estou constantemente aprendendo e experimentando com novas tecnologias e ferramentas.
+📚 Estou constantemente aprendendo e experimentando novas tecnologias e ferramentas.
 
 📫 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/bruno-leardini/) para discussões, colaborações ou apenas para uma conversa sobre tecnologia.
 
