@@ -2,7 +2,7 @@
 
 👨‍💻 Analista de Gestão de Projetos | 🐍 Aventurando em Automações em Python 
 
-🌟 Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e um estagiário em projetos apaixonado por explorar o mundo da automação com Python. Estou empenhado em aprender e crescer no campo da programação, buscando sempre desafios e oportunidades para aprimorar minhas habilidades e otimizar minhas tarefas diariamente.
+🌟 Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e um Analist de projetos apaixonado por explorar o mundo da automação com Python. Estou empenhado em aprender e crescer no campo da programação, buscando sempre desafios e oportunidades para aprimorar minhas habilidades e otimizar minhas tarefas diariamente.
 
 🎓 Atualmente, estou cursando Engenharia da Computação na Descomplica. Meu interesse está em projetos de [automação utilizando diversas bibliotecas Python, análise de dados, etc.]. 
 
